@@ -5,3 +5,5 @@ bg
 obj
 
 req
+
+run in terminal
